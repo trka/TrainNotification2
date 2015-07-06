@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-155a4af677e6d6db366efc1326b159b0ea8d491a.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-1801382ff98710882fabf3b85928cd53efc95eab.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-27edf4aec582527cee6e3ea38b494c8652e35c23.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-e3c8552121d0c4d406712d2cd5fa0eaa599250f9.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-4b9952914ddc21f8d28c1f2f1eb7d5fa432f6cbf.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-d042ab069462280a36ad0335f416a5577f345b3d.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e62c6d22a7e94b5c38f06e36ad2f5c73130908c7.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-38f52e5417ba8afd7f78f818836c26ae2a525bd2.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-a343ae6c1ec2537efbad022ae7c110d1d2bc58d6.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-b5be0c92eda57b6cad8bacd52ba819d321ca6e99.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-734406f4189b09f6cea63827b57e4ded0a960f05.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-5f8599c988e52dc019aaa7547649705e4776b93f.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-2774a5f793520b4485c0997f30958988b22bbd17.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-4d9eda1c81392c0e39badc0518372dff8ca89380.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-9de74cf9e0f432a898bb8655b4bd8f98d76b3472.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-8497d1c24597d5036b61cad42ff8661dd6259107.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-580d2a10a84fe4e3c8a4ba4430cb7b2d55ffd8cc.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-be32f51f8902e60b45190c753a4974b247470f6d.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-ff621850b36aaf565e8c84871a4d75682aca471a.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-94df7958b80ca419ec1d1a1f74fa9a2747160f33.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-8d9ce46a536271e8ed2d7900bdb7fed4ad7894bd.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-3ec59e45798ba9492d5ae286e7e08e900749db34.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-eff42952e860191ad67657761767e13d7d54fdd6.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-fd48117e06eec663d0f81e536ff9f02eb7f17972.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-cb0ce8168d6cfeaca18f092b53816cfee6e71cea.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/July_seventh/app/build/intermediates/pre-dexed/debug/classes-52fd45d85d8c7cbbda56904498920c36daefafbf.jar" />
+    </item>
+
+</items>
